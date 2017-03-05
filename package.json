@@ -1,0 +1,31 @@
+{
+  "name": "re_demo",
+  "version": "1.0.0",
+  "description": "react_demo",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-env": "^1.2.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-register": "^6.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlanda/reactReroll.git"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "author": "landa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlanda/reactReroll/issues"
+  },
+  "homepage": "https://github.com/sunlanda/reactReroll#readme"
+}
